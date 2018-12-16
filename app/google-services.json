@@ -1,0 +1,254 @@
+{
+  "project_info": {
+    "project_number": "729941140676",
+    "firebase_url": "https://newagent-83867.firebaseio.com",
+    "project_id": "newagent-83867",
+    "storage_bucket": "newagent-83867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:60f7c56504e365e3",
+        "android_client_info": {
+          "package_name": "boommba.com.apps.prototypes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:59353c8d9b7e2b23",
+        "android_client_info": {
+          "package_name": "codingwithmitch.com.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:0e0a636a4e0662df",
+        "android_client_info": {
+          "package_name": "com.example.boris.uploadandretrieveimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:91e94fd9291e9ac6",
+        "android_client_info": {
+          "package_name": "com.rozdoum.socialcomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:5f4b7e407e48bc28",
+        "android_client_info": {
+          "package_name": "e.geertvanleuven.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-eqeo26q2dmll7s5lq800a030cannu838.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.geertvanleuven.chatapp",
+            "certificate_hash": "fba9d1fcb162ec5375af74dd383f20cdc3dff028"
+          }
+        },
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729941140676-t9u3falcr5fu37kq7dgrfp1arpk21t6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:61a73de7da865094",
+        "android_client_info": {
+          "package_name": "e.geertvanleuven.chatappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-m3dcm6k0dv3kmenk09lbf6nntn3s9r9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.geertvanleuven.chatappkotlin",
+            "certificate_hash": "fba9d1fcb162ec5375af74dd383f20cdc3dff028"
+          }
+        },
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729941140676-t9u3falcr5fu37kq7dgrfp1arpk21t6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729941140676:android:6d3698091faa2943",
+        "android_client_info": {
+          "package_name": "e.geertvanleuven.wakeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729941140676-hif29l6hl64ddtunchu5lk79al0destr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-fMSRkkXZrOYU5s9n9U2cXXzt5gmXz0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
